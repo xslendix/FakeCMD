@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588800722 source:c:\users\public\cmd\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<string>
+	<algorithm>
+	<windows.h>
+
+1588801804 source:c:\users\public\cmd\icon.rc
+
